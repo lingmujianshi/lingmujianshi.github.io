@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GithubPageWeb",
   "resources": {
-    "hash": "sha256-6DEgyLPtIwWHId8aF1r18pkVTmCMI+2b8vK5Xmlc1ao=",
+    "hash": "sha256-uxEs6B6+DhZmPS6m0HoXAj8f/pTch9TixeMGUofAb/g=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "GithubPageWeb.wasm": "sha256-+hkfAE1RSDV5OlGVi2wW8GwX1dxzxoz5eRTC6zvc0xs=",
+      "GithubPageWeb.wasm": "sha256-AQJEl7sSKqV72G+w+YE+T4PPokXUO6M+Eb4ihIRZ2hU=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-CS8CQtrDJ7OniJx5m3AU1sb/CL1dIP13ZyVBGhMjk0U=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-vbmhR3SSHxQ7d2rRoVmpYplGgf5f0NGZK4xeg+ufpME=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-QQOcBDu5Rl/lLCWkwHn7BGdAtS9Eg1Qbafc/mUV3kKU=",
